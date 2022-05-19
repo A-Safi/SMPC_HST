@@ -1,4 +1,4 @@
-clear;clc
+clear;clc % Add YALMIP Toolbox First
 color='b-';
 ds=genpath(pwd);
 addpath(ds);
